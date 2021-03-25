@@ -1,3 +1,3 @@
 # My-Portfolio
-My Portfolio with django.
+My Portfolio and resume with django by using CSS/HTMl and JS.
 
