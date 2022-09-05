@@ -1,2 +1,2 @@
 # Resume
-CV of Sina Razi Moftakhar
+My Curriculum Vitae, including my academic experience, projects, languages and skills.
