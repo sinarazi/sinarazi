@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on Computer Vision and Image Processing :)<br>I have experience in Machine and Deep Learning and wanna learn<br>about Reinforcement Learning :]
 
+## Curriculum Vitae
+My cv can be downloaded from ![Here](https://github.com/sinarazi/sinarazi/blob/main/Curriculum%20Vitae_Sina%20Razi.pdf)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sinarazii/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/thesinnah) 
