@@ -1,4 +1,3 @@
-# 💫 About Me:
 I'm currently working on Computer Vision and Image Processing :)<br>I have experience in Machine and Deep Learning and wanna learn<br>about Reinforcement Learning :]
 
 ## 📝 Curriculum Vitae
