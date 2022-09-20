@@ -1,4 +1,9 @@
+<h1 align="center">Hi, I'm Sina :)</h1>
+
+<h3 align="center">An enthusiastic ML/AI Learning Engineer</h3>
+<p>
 I'm currently working on Computer Vision and Image Processing :)<br>I have experience in Machine and Deep Learning and wanna learn<br>about Reinforcement Learning :]
+</p>
 
 # 📝 Curriculum Vitae
 My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Curriculum%20Vitae_Sina%20Razi.pdf).<br/>
