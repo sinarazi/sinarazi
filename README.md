@@ -11,7 +11,7 @@ My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/ma
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="200em" width='48%' src="https://github-readme-stats.vercel.app/api?username=mralamdari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="200em" width='48%' src="https://github-readme-stats.vercel.app/api?username=sinarazu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="200em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=sinarazi&theme=midnight-purple&hide_border=true"/>
 
 ---
