@@ -8,7 +8,7 @@ I have experience in Machine and Deep Learning and wanna learn more and more abo
 My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Curriculum%20Vitae_Sina%20Razi.pdf).<br/>
 
 
-##### 🔗 Contact me
+- #### 🔗 Contact me
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sinarazii/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/thesinnah) -->
 <p align="left">
 <a href="https://www.linkedin.com/in/sinarazii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sinarazii/" height="30" width="40" /></a>
