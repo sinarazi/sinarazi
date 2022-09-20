@@ -19,7 +19,7 @@ My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/ma
 <a href="https://www.kaggle.com/sinarazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sinarazi" height="30" width="40" /></a>
 <a href="https://twitter.com/thesinnah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/thesinnah" height="30" width="40" /></a>
 </p>  
-<br/>
+
 
 ## 📊 GitHub Stats:
 <p align="center">
