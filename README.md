@@ -14,4 +14,7 @@ My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/ma
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinarazi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sinarazi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
+</p>
