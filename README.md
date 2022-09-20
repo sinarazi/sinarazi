@@ -16,5 +16,5 @@ My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/ma
 ---
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mralamdari/count.svg" />
+  <img src="https://profile-counter.glitch.me/sinarazi/count.svg" />
 </p>
