@@ -2,7 +2,8 @@
 
 <h3 align="center">An enthusiastic ML/AI Learning Engineer</h3>
 <p>
-I'm currently working on Computer Vision and Image Processing :)<br>I have experience in Machine and Deep Learning and wanna learn<br>about Reinforcement Learning :]
+I'm currently working on Computer Vision and Image Processing :) <br/>
+I have experience in Machine and Deep Learning and wanna learn more and more about Reinforcement Learning :]
 </p>
 
 # 📝 Curriculum Vitae
