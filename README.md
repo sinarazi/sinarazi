@@ -3,7 +3,6 @@
 I'm currently working on Computer Vision and Image Processing :) <br/>
 I have experience in Machine and Deep Learning and wanna learn more and more about Reinforcement Learning :]
 </p>
-<br/>
 
 ## 📩 Cover Letter
 My Cover Letter, which I explained my academic and work experience, can be downloaded from this link.<br/>
