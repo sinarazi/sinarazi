@@ -4,6 +4,9 @@ I'm currently working on Computer Vision and Image Processing :) <br/>
 I have experience in Machine and Deep Learning and wanna learn more and more about Reinforcement Learning :]
 </p>
 
+## 📝 Cover Letter
+My Cover Letter, which I explained my academic and work experience, can be downloaded from this link.<br/>
+
 ## 📝 Curriculum Vitae
 My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Sina_Razi_CV.pdf).<br/>
 
