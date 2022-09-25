@@ -5,7 +5,7 @@ I have experience in Machine and Deep Learning and wanna learn more and more abo
 </p>
 
 ## 📝 Curriculum Vitae
-My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Curriculum%20Vitae_Sina%20Razi.pdf).<br/>
+My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Sina_Razi_CV.pdf).<br/>
 
 
 - #### 🔗 Contact me
