@@ -33,7 +33,7 @@ My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/ma
 <!--  <img height="200em" width='48%' src="https://github-readme-stats.vercel.app/api?username=sinarazi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/> -->
 <!--   <img height="200em" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=sinarazi&theme=midnight-purple&hide_border=true"/>
  -->
-<br/> -->
+<br/>
 <p align="center"> 
   Visitor's counter<br>
   <img src="https://profile-counter.glitch.me/sinarazi/count.svg" />
