@@ -4,14 +4,14 @@ I'm recently designated as an Aritificial Intelligence R&D working student at Pr
 I have experience in Machine and Deep Learning and wanna learn more and more about Reinforcement Learning :]
 </p>
 
-## 📩 Cover Letter
+<!-- ## 📩 Cover Letter
 My Cover Letter, which I explained my academic and work experience, can be downloaded from this [link](https://github.com/sinarazi/sinarazi/blob/main/Cover_Letter_Sina_Razi.pdf).<br/>
 <br/>
 
 ## 📝 Curriculum Vitae
 My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Sina_Razi_CV.pdf).<br/>
 <br/>
-
+ -->
 - #### 🔗 Contact me
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sinarazii/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/thesinnah) -->
 <p align="left">
