@@ -9,7 +9,7 @@ My Cover Letter, which I explained my academic and work experience, can be downl
 <br/>
  -->
 ## 📝 Curriculum Vitae
-My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/Sina_Razi_CV.pdf).<br/>
+My CV can be downloaded from [here](https://github.com/sinarazi/sinarazi/blob/main/CV_Sina_Razi.pdf).<br/>
 <br/>
 
 - #### 🔗 Contact me
