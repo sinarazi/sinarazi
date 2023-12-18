@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sina :)</h1>
 <p>
-I'm recently designated as an Aritificial Intelligence R&D working student at Procter and Gamble.  <br/>
-I have experience in Machine and Deep Learning and wanna learn more and more about Reinforcement Learning :]
+I'm recently designated as an Digital Governance working student in Siemens Energy.<br/>
+I have experience in Machine and Deep Learning and wanna learn more and more about Projet Management :]
 </p>
 
 <!-- ## 📩 Cover Letter
