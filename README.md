@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sina :)</h1>
 <p>
 I'm recently designated as an Project Management working student in Siemens Energy.<br/>
-I have experience in Machine and Deep Learning and wanna learn more and more about Projet Management :]
+I have experience in Machine and Deep Learning and wanna learn more and more about Project Management :]
 </p>
 
 <!-- ## 📩 Cover Letter
